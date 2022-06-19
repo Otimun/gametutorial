@@ -1,0 +1,11 @@
+This game was made with the help of:
+https://realpython.com/pygame-a-primer/
+
+to make pixel art:
+https://www.piskelapp.com/
+https://opengameart.org/
+https://www.gameart2d.com
+
+to get other peoples sounds:
+http://ccmixter.org
+https://freesound.org
